@@ -48,3 +48,9 @@ button {
   border-color: orange;
   color: red;
 }
+
+.knopUitgeschakeld {
+  background-color: lightgray;
+  border-color: darkgray;
+  color: black;
+}
